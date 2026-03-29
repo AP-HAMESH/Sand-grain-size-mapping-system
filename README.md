@@ -10,8 +10,8 @@ A project to analyze and map sand grain size using (your method: e.g. image proc
 - Core source code in `src/`
 
 ## Teammates
--AP HAMESH
--T HARSHITH
--SREYA SUNIL
--INIYAPADMANANBAN
--VIVEK RAJ
+- AP HAMESH
+- T HARSHITH
+- SREYA SUNIL
+- INIYAPADMANANBAN
+- VIVEK RAJ
