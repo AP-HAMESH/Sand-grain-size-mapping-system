@@ -9,3 +9,9 @@ A project to analyze and map sand grain size using (your method: e.g. image proc
 - Model storage (in `model/`) — **note:** large model files should be stored using Git LFS or cloud storage.
 - Core source code in `src/`
 
+## Teammates
+-AP HAMESH
+-T HARSHITH
+-SREYA SUNIL
+-INIYAPADMANANBAN
+-VIVEK RAJ
